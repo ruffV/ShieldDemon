@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cosmonauticulsong2.mp3-d8b3c3bba2415f8ec57dbeff0c9ac9c8.mp3str"
+
+[deps]
+
+source_file="res://cosmonauticulsong2.mp3"
+dest_files=[ "res://.import/cosmonauticulsong2.mp3-d8b3c3bba2415f8ec57dbeff0c9ac9c8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

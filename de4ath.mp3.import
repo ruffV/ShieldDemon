@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/de4ath.mp3-7edb3c67c121814027a0730e73cba1b1.mp3str"
+
+[deps]
+
+source_file="res://de4ath.mp3"
+dest_files=[ "res://.import/de4ath.mp3-7edb3c67c121814027a0730e73cba1b1.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

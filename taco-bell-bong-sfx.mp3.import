@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/taco-bell-bong-sfx.mp3-e80d3c73f9e4429f98c901a5efc41c2b.mp3str"
+
+[deps]
+
+source_file="res://taco-bell-bong-sfx.mp3"
+dest_files=[ "res://.import/taco-bell-bong-sfx.mp3-e80d3c73f9e4429f98c901a5efc41c2b.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
